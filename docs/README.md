@@ -13,9 +13,9 @@ This repo is the shared configuration layer for Claude Code across projects. It 
 
 | Skill | Command | Purpose |
 |-------|---------|---------|
-| Identity refresh | `/id` | Reload JeanJean identity and project context |
-| Documentation init | `/init-doc` | Initialize or realign the standard docs tree |
-| Checkpoint | `/checkpoint` | Session checkpoint — summarize progress, check docs and git state |
+| Identity refresh | `/jj-id` | Reload JeanJean identity and project context |
+| Documentation init | `/jj-init-doc` | Initialize or realign the standard docs tree |
+| Checkpoint | `/jj-checkpoint` | Session checkpoint — summarize progress, check docs and git state |
 
 ## Setup
 

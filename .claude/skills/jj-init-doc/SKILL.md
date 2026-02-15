@@ -1,5 +1,5 @@
 ---
-name: init-doc
+name: jj-init-doc
 description: Initialize or realign the standard documentation tree for a project
 disable-model-invocation: true
 allowed-tools: Bash, Read, Write, Glob, Grep

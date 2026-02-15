@@ -1,5 +1,5 @@
 ---
-name: checkpoint
+name: jj-checkpoint
 description: Session checkpoint — summarize progress, check docs, check git state
 disable-model-invocation: true
 allowed-tools: Bash, Read, Grep, Glob
